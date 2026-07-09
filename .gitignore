@@ -1,0 +1,17 @@
+# Logs
+logs/
+*.log
+
+# Databases
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
